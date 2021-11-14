@@ -8,3 +8,4 @@ describe('My first Test Suite', function(){
         cy.get('div.product').should('have.length', 4);
     })
 })
+//New changes
